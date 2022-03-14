@@ -17,8 +17,8 @@ body {
   overflow: hidden;
 }
 img {
-  height: 600px;
-  width: 500px;
+  max-height: 100vh;
+  min-width: 100%;
 }
 .img1,
 .img2,
